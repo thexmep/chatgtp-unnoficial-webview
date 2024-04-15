@@ -52,7 +52,7 @@ bun run tauri build
 ```
 
 Esto creará los archivos necesarios para distribuir la aplicación en los directorios correspondientes según la plataforma.
-Directorio : src-tauri/target/release/
+Directorio : src-tauri/target/release/bundle/
 
 
 

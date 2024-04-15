@@ -1,7 +1,7 @@
 {
   "build": {
-    "devPath": "../src",
-    "distDir": "../src",
+    "devPath": "https://chat.openai.com",
+    "distDir": "https://chat.openai.com",
     "withGlobalTauri": true
   },
   "package": {
